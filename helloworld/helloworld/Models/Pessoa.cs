@@ -8,6 +8,6 @@ namespace helloworld.Models
 {
     class Pessoa
     {
-        public string Nome { get; set; }
+        public string Nome Completo { get; set; }
     }
 }
